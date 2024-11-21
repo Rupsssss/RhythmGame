@@ -14,4 +14,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Test Song/TestSong.unity
     guid: 3252ff11066014642bbb38992a8c9b82
+  - enabled: 1
+    path: Assets/Scenes/HotCrossBuns/HotCrossBuns.unity
+    guid: 2a42a7b78c85e442baa6e2df0ab63bf6
+  - enabled: 1
+    path: Assets/Scenes/Espresso/Espresso.unity
+    guid: 9ca36eed676fe4bdc9382f05399db6a2
+  - enabled: 1
+    path: Assets/Scenes/Wildflower/Wildflower.unity
+    guid: 0b8bd74070ef14c0695cd0dc92480354
   m_configObjects: {}
