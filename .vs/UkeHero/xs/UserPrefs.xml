@@ -1,20 +1,18 @@
 ﻿<Properties StartupConfiguration="{097F92A0-0035-969B-465B-D5F31DF778CC}|">
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="7a1a5f16-9433-4868-9643-698fbcd0eebc" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/SceneSwitcher.cs">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="4c73330d-7711-4aa9-a3e1-8920eb54caa9" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Helpers/Singleton.cs">
     <Files>
-      <File FileName="Assets/Scripts/UI.cs" Line="19" Column="6" />
-      <File FileName="Assets/Scripts/BeatScroller.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Countdown.cs" Line="12" Column="35" />
-      <File FileName="Assets/Scripts/IsNoteFirst.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/Note.cs" Line="1" Column="1" />
-      <File FileName="Assets/Scripts/SceneSwitcher.cs" Line="9" Column="6" />
-      <File FileName="Assets/Scripts/Stats.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Models/PanelModel.cs" Line="9" Column="22" />
+      <File FileName="Assets/Scripts/Managers/PanelManager.cs" Line="6" Column="51" />
+      <File FileName="Assets/Scripts/Models/PanelInstanceModel.cs" Line="11" Column="1" />
+      <File FileName="Assets/Scripts/Helpers/Singleton.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/Buttons/ShowPanelButton.cs" Line="20" Column="6" />
     </Files>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
 </Properties>

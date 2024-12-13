@@ -5299,13 +5299,13 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 963194225}
   serializedVersion: 2
-  m_LocalRotation: {x: 0.037630744, y: 0.7061048, z: -0.037630774, w: 0.7061048}
-  m_LocalPosition: {x: -3.95, y: 6, z: 0}
+  m_LocalRotation: {x: 0.094981015, y: 0.7006987, z: -0.094981015, w: 0.7006987}
+  m_LocalPosition: {x: -2.11, y: 6.28, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
   m_Father: {fileID: 0}
-  m_LocalEulerAnglesHint: {x: 6.101, y: 90, z: 0}
+  m_LocalEulerAnglesHint: {x: 15.439, y: 90, z: 0}
 --- !u!1 &964505167 stripped
 GameObject:
   m_CorrespondingSourceObject: {fileID: -3133498875991405556, guid: 741256c4ecd3d4abe93acfcce7cb7a59, type: 3}
